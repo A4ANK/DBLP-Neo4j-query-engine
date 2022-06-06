@@ -46,10 +46,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Made by:-
-- Ankur Dhakar
-- Ashay Netke
-- Raj Goyal
+
 
 ### Licensed under:-
 - BITS Pilani, Hyderabad Campus (CSG516 Adv. Database Systems Course, Semester-II, 2021-2022)
